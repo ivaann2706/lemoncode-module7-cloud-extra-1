@@ -1,6 +1,6 @@
-# Cloud Module - Exercise 1
+# Cloud Module - Exercise extra 1
 
-A heroku app is created and we deploy the app to Heroku manually using git and the Static files buildpack
+In this repository, an app has been manually deployed to Heroku using git and the static file buildpack
 
 This repository has two branches:
 
